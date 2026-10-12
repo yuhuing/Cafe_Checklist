@@ -56,13 +56,13 @@ The system helps users understand their task progress through visual indicators,
 <br>
 
 # 📱 Application Interface
+<br>
 
-(Add your application screenshots here)
-
-Example:
+<div align="center">
 
 ![Cafe Checklist Interface](images/interface.png)
 
+</div>
 
 <br>
 <a id="features"></a>
