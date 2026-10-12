@@ -168,7 +168,17 @@ Features:
 
 <br>
 
-# 👨‍💻 Contributors
+# ☕ Meet The Team
 
-- **Chai Shun Ying**
-- **Ng Yu Hui**
+Cafe Checklist was brewed by:
+
+<div align="center">
+
+| ☕ Team Member | 💻 Contribution |
+|:---:|:---:|
+| **Chai Shun Ying** | Application Development |
+| **Ng Yu Hui** | Application Development |
+
+</div>
+
+
