@@ -14,15 +14,6 @@
 ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Firebase%20Auth-User%20Login-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
 
-<br>
-
-☕ Organize Tasks  
-📅 Track Progress  
-👥 Collaborate with Groups  
-📊 Analyze Productivity  
-
-<br>
-
 [✨ Features](#-features) ·
 [📸 Screenshots](#-screenshots) ·
 [⚙️ Getting Started](#-getting-started) ·
@@ -31,7 +22,29 @@
 
 </div>
 
-## 📌 Overview
+---
+
+<div align="center">
+
+Scan the QR code below and start brewing your productivity journey!
+
+<br>
+
+<img src="images/app-qr.png" width="180">
+
+<br>
+
+✨ **Scan Me!** ✨
+
+<br>
+
+_Your daily tasks are just one scan away ☕_
+
+</div>
+
+---
+
+# 📌 Overview
 
 Cafe Checklist is a productivity management application designed to help users organize, track, and complete their daily tasks more effectively.
 
@@ -170,23 +183,7 @@ Example:
 
 ---
 
-# 🚀 Future Improvements
-
-Possible improvements:
-
-- Notification reminders
-- Task priority ranking
-- AI-based productivity recommendations
-- More advanced analytics dashboard
-- Cross-platform synchronization
-
-
----
-
 # 👨‍💻 Contributors
 
-| Name | Role |
-|---|---|
-| Member 1 | Development |
-| Member 2 | UI/UX Design |
-| Member 3 | Database & Backend |
+- **Chai Shun Ying**
+- **Ng Yu Hui**
