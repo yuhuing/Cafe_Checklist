@@ -30,7 +30,7 @@ Scan the QR code below and start brewing your productivity journey!
 
 <br>
 
-<img src="images/app-qr.png" width="180">
+<img src="images/qr.png" width="180">
 
 <br>
 
