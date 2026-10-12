@@ -67,107 +67,66 @@ Example:
 
 # ✨ Features
 
-## 📝 Smart Task Management
+## ☕ Smart Task Management
 
-Cafe Checklist provides different task views to help users manage tasks based on urgency and completion status.
+Cafe Checklist provides multiple task views to help users organize daily activities and monitor progress.
 
-### Today Tasks
+### Today & Long Term Tasks
 
-- Displays tasks that require immediate attention
-- Automatically removes completed tasks from the active list
-- Helps users focus on daily priorities
+- Manage urgent and future tasks separately
+- Automatically track deadlines and task progress
+- Support manual and automatic task colour management
+- Completed tasks are moved out from active views
 
+---
 
-### Long Term Tasks
+### History & Status Tracking
 
-Designed for tasks with future deadlines.
+- Keep records of overdue tasks
+---
 
-Features:
-- Supports both automatic and manual colour management
-- Automatically updates task status based on approaching deadlines
-- Allows users to manually customize task colours when needed
-- Completed tasks are removed from the active interface
+## 🏷 Task Status Tracking
 
+Each task is assigned with a status indicator:
 
-### History Tracking
+- Done — Task completed before the due date
+- Done Late — Task completed after the due date
+- Pending — Task has not been completed yet
 
-Keeps track of previously completed tasks.
+---
 
-Features:
-- Stores completed and overdue tasks
-- Differentiates task completion status:
-  - ✅ Done: Completed before the due date
-  - ⚠️ Done Late: Completed after the due date
-  - ⏳ Pending: Task is incomplete
+# 📅 Productivity Calendar
+
+Visualize task progress and achievements through an interactive calendar.
+
+- Completion stars for fully completed days ⭐
+- Track daily productivity history
+- Display task progress through colour indicators
 
 
 ---
 
-# 📅 Calendar-Based Progress Tracking
+# 👥 Group Collaboration
 
-The calendar provides users with a visual overview of their productivity.
+Work together with shared task management.
 
-Features:
-
-⭐ Completion Indicator
-- A star is displayed when all tasks scheduled for a specific day are completed
-- Future dates will only receive a completion indicator when all assigned tasks are completed
-
-🎨 Task Status Visualization
-- Task colours represent different progress states
-- Automatically generated task colours update according to deadlines
-- Manually assigned colours remain unchanged unless modified by the user
+- Create and manage collaborative groups
+- Invite members through registered accounts
+- Assign and manage tasks based on user permissions
 
 
 ---
 
-# 👥 Group Task Collaboration
+# 📊 Personal Productivity Insights
 
-Cafe Checklist supports collaborative task management for group activities.
+Understand productivity patterns through data visualization.
 
-Features:
-
-- Users who create a group become the group owner
-- Only the owner can add or remove members
-- Members must be registered with a valid email address
-- Both owners and members can assign tasks
-- Task editing permissions are controlled based on ownership
+- Track completed and pending tasks
+- View productivity trends with bar charts
 
 
 ---
 
-# 📊 Personal Productivity Analysis
-
-The Personal section provides users with insights into their task performance.
-
-Features:
-
-- Records completed and pending tasks across:
-  - Today
-  - Long Term
-  - History
-
-- Provides productivity visualization using:
-
-📊 Bar Chart
-- Displays the number of completed tasks on each day
-- Helps users analyze their productivity trends
-
-
----
-
-# 🧠 Key Highlights
-
-| Feature | Description |
-|---|---|
-| Smart Task Status | Automatically tracks task progress based on deadlines |
-| Visual Calendar | Provides an overview of daily completion progress |
-| Flexible Task Control | Supports both automatic and manual task management |
-| Collaboration | Enables users to manage tasks within groups |
-| Productivity Analytics | Helps users understand their working habits |
-
-
----
 
 # 🛠️ Technologies Used
 
