@@ -157,6 +157,7 @@ Features:
 
 <br>
 <a id="technologies"></a>
+
 # 🛠️ Technologies Used
 
 (Add your technologies here)
