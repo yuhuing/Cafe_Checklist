@@ -55,7 +55,7 @@ The system helps users understand their task progress through visual indicators,
 
 <br>
 
-# 📱 Application Interface
+# 📱 Web Application Interface
 <br>
 
 <div align="center">
