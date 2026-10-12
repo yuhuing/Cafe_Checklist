@@ -160,10 +160,6 @@ Features:
 
 # 🛠️ Technologies Used
 
-(Add your technologies here)
-
-Example:
-
 - Flutter
 - Firebase Authentication
 - Cloud Firestore
