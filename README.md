@@ -52,7 +52,7 @@ Unlike a traditional checklist application, Cafe Checklist provides a structured
 
 The system helps users understand their task progress through visual indicators, automatic status updates, and personal productivity analysis.
 
----
+<br>
 
 # 📱 Application Interface
 
@@ -63,69 +63,94 @@ Example:
 ![Cafe Checklist Interface](images/homepage.png)
 
 
----
+<br>
 
 # ✨ Features
 
-## ☕ Smart Task Management
+Cafe Checklist provides different task views to help users manage tasks based on urgency and completion status.
 
-Cafe Checklist provides multiple task views to help users organize daily activities and monitor progress.
+### Today Tasks
 
-### Today & Long Term Tasks
-
-- Manage urgent and future tasks separately
-- Automatically track deadlines and task progress
-- Support manual and automatic task colour management
-- Completed tasks are moved out from active views
-
----
-
-### History & Status Tracking
-
-- Keep records of overdue tasks
----
-
-## 🏷 Task Status Tracking
-
-Each task is assigned with a status indicator:
-
-- Done — Task completed before the due date
-- Done Late — Task completed after the due date
-- Pending — Task has not been completed yet
-
----
-
-# 📅 Productivity Calendar
-
-Visualize task progress and achievements through an interactive calendar.
-
-- Completion stars for fully completed days ⭐
-- Track daily productivity history
-- Display task progress through colour indicators
+- Displays tasks that require immediate attention
+- Automatically removes completed tasks from the active list
+- Helps users focus on daily priorities
 
 
----
+### Long Term Tasks
 
-# 👥 Group Collaboration
+Designed for tasks with future deadlines.
 
-Work together with shared task management.
-
-- Create and manage collaborative groups
-- Invite members through registered accounts
-- Assign and manage tasks based on user permissions
-
-
----
-
-# 📊 Personal Productivity Insights
-
-Understand productivity patterns through data visualization.
-
-- Track completed and pending tasks
-- View productivity trends with bar charts
+Features:
+- Supports both automatic and manual colour management
+- Automatically updates task status based on approaching deadlines
+- Allows users to manually customize task colours when needed
+- Completed tasks are removed from the active interface
 
 
----
+### History Tracking
+
+Keeps track of previously completed tasks.
+
+Features:
+- Stores completed and overdue tasks
+- Differentiates task completion status:
+  - ✅ Done: Completed before the due date
+  - ⚠️ Done Late: Completed after the due date
+  - ⏳ Pending: Task is incomplete
+
+
+<br>
+
+# 📅 Calendar-Based Progress Tracking
+
+The calendar provides users with a visual overview of their productivity.
+
+Features:
+
+⭐ Completion Indicator
+- A star is displayed when all tasks scheduled for a specific day are completed
+
+🎨 Task Status Visualization
+- Task colours represent different progress states
+- Automatically generated task colours update according to deadlines
+- Manually assigned colours remain unchanged unless modified by the user
+
+
+<br>
+
+# 👥 Group Task Collaboration
+
+Cafe Checklist supports collaborative task management for group activities.
+
+Features:
+
+- Users who create a group become the group owner
+- Only the owner can add or remove members
+- Both owners and members can assign tasks
+- Task editing permissions are controlled based on ownership
+
+
+<br>
+
+# 📊 Personal Productivity Analysis
+
+The Personal section provides users with insights into their task performance.
+
+Features:
+
+- Records completed and pending tasks across:
+  - Today
+  - Long Term
+  - History
+
+- Provides productivity visualization using:
+
+📊 Bar Chart
+- Displays the number of completed tasks on each day
+- Helps users analyze their productivity trends
+
+
+<br>
 
 
 # 🛠️ Technologies Used
@@ -140,7 +165,7 @@ Example:
 - Dart
 
 
----
+<br>
 
 # 👨‍💻 Contributors
 
