@@ -174,7 +174,7 @@ Cafe Checklist was brewed by:
 
 <div align="center">
 
-| ☕ Team Member | 💻 Contribution |
+| Team Member | Contribution |
 |:---:|:---:|
 | **Chai Shun Ying** | Application Development |
 | **Ng Yu Hui** | Application Development |
