@@ -61,7 +61,7 @@ The system helps users understand their task progress through visual indicators,
 
 Example:
 
-![Cafe Checklist Interface](images/homepage.png)
+![Cafe Checklist Interface](images/interface.png)
 
 
 <br>
