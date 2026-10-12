@@ -14,11 +14,12 @@
 ![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Firebase%20Auth-User%20Login-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
 
-[✨ Features](#-features) ·
-[📸 Screenshots](#-screenshots) ·
-[⚙️ Getting Started](#-getting-started) ·
-[🗄️ Database](#-database) ·
-[🚀 Future Improvements](#-future-improvements)
+[📌 Overview](#overview) ·
+[✨ Features](#features) ·
+[📅 Calendar](#calendar) ·
+[👥 Group](#group) ·
+[📊 Personal](#personal) ·
+[🛠️ Technologies](#technologies)
 
 </div>
 
@@ -42,7 +43,7 @@ _Your daily tasks are just one scan away ☕_
 
 </div>
 
----
+<a id="overview"></a>
 
 # 📌 Overview
 
@@ -64,6 +65,7 @@ Example:
 
 
 <br>
+<a id="features"></a>
 
 # ✨ Features
 
@@ -100,6 +102,7 @@ Features:
 
 
 <br>
+<a id="calendar"></a>
 
 # 📅 Calendar-Based Progress Tracking
 
@@ -117,6 +120,7 @@ Features:
 
 
 <br>
+<a id="group"></a>
 
 # 👥 Group Task Collaboration
 
@@ -131,6 +135,7 @@ Features:
 
 
 <br>
+<a id="personal"></a>
 
 # 📊 Personal Productivity Analysis
 
@@ -151,8 +156,7 @@ Features:
 
 
 <br>
-
-
+<a id="technologies"></a>
 # 🛠️ Technologies Used
 
 (Add your technologies here)
