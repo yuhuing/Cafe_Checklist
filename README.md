@@ -96,9 +96,9 @@ Keeps track of previously completed tasks.
 Features:
 - Stores completed and overdue tasks
 - Differentiates task completion status:
-  - ✅ Done: Completed before the due date
-  - ⚠️ Done Late: Completed after the due date
-  - ⏳ Pending: Task is incomplete
+  - Done: Completed before the due date
+  - Done Late: Completed after the due date
+  - Pending: Task is incomplete
 
 
 <br>
