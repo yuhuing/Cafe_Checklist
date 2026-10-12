@@ -1,20 +1,192 @@
-<<<<<<< HEAD
-# cafe_checklist
+<div align="center">
 
-A new Flutter project.
+# ☕ Cafe Checklist
 
-## Getting Started
+### Brew Your Productivity, One Task at a Time ☕
 
-This project is a starting point for a Flutter application.
+**A smart task management application designed to help users organize daily activities, track progress, collaborate with others, and improve productivity through visual task management.**
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Flutter](https://img.shields.io/badge/Flutter-3.47.7-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-Database-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Authentication](https://img.shields.io/badge/Firebase%20Auth-User%20Login-4285F4?style=for-the-badge&logo=firebase&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# To-Do-List
->>>>>>> efde2ea9af86461b7c26c86c01b7de07c4d6c6e5
+<br>
+
+☕ Organize Tasks  
+📅 Track Progress  
+👥 Collaborate with Groups  
+📊 Analyze Productivity  
+
+<br>
+
+[✨ Features](#-features) ·
+[📸 Screenshots](#-screenshots) ·
+[⚙️ Getting Started](#-getting-started) ·
+[🗄️ Database](#-database) ·
+[🚀 Future Improvements](#-future-improvements)
+
+</div>
+
+## 📌 Overview
+
+Cafe Checklist is a productivity management application designed to help users organize, track, and complete their daily tasks more effectively.
+
+Unlike a traditional checklist application, Cafe Checklist provides a structured task management system by separating tasks into different stages, including Today, Long Term, History, and Calendar views.
+
+The system helps users understand their task progress through visual indicators, automatic status updates, and personal productivity analysis.
+
+---
+
+# 📱 Application Interface
+
+(Add your application screenshots here)
+
+Example:
+
+![Cafe Checklist Interface](images/homepage.png)
+
+
+---
+
+# ✨ Features
+
+## 📝 Smart Task Management
+
+Cafe Checklist provides different task views to help users manage tasks based on urgency and completion status.
+
+### Today Tasks
+
+- Displays tasks that require immediate attention
+- Automatically removes completed tasks from the active list
+- Helps users focus on daily priorities
+
+
+### Long Term Tasks
+
+Designed for tasks with future deadlines.
+
+Features:
+- Supports both automatic and manual colour management
+- Automatically updates task status based on approaching deadlines
+- Allows users to manually customize task colours when needed
+- Completed tasks are removed from the active interface
+
+
+### History Tracking
+
+Keeps track of previously completed tasks.
+
+Features:
+- Stores completed and overdue tasks
+- Differentiates task completion status:
+  - ✅ Done: Completed before the due date
+  - ⚠️ Done Late: Completed after the due date
+  - ⏳ Pending: Task is incomplete
+
+
+---
+
+# 📅 Calendar-Based Progress Tracking
+
+The calendar provides users with a visual overview of their productivity.
+
+Features:
+
+⭐ Completion Indicator
+- A star is displayed when all tasks scheduled for a specific day are completed
+- Future dates will only receive a completion indicator when all assigned tasks are completed
+
+🎨 Task Status Visualization
+- Task colours represent different progress states
+- Automatically generated task colours update according to deadlines
+- Manually assigned colours remain unchanged unless modified by the user
+
+
+---
+
+# 👥 Group Task Collaboration
+
+Cafe Checklist supports collaborative task management for group activities.
+
+Features:
+
+- Users who create a group become the group owner
+- Only the owner can add or remove members
+- Members must be registered with a valid email address
+- Both owners and members can assign tasks
+- Task editing permissions are controlled based on ownership
+
+
+---
+
+# 📊 Personal Productivity Analysis
+
+The Personal section provides users with insights into their task performance.
+
+Features:
+
+- Records completed and pending tasks across:
+  - Today
+  - Long Term
+  - History
+
+- Provides productivity visualization using:
+
+📊 Bar Chart
+- Displays the number of completed tasks on each day
+- Helps users analyze their productivity trends
+
+
+---
+
+# 🧠 Key Highlights
+
+| Feature | Description |
+|---|---|
+| Smart Task Status | Automatically tracks task progress based on deadlines |
+| Visual Calendar | Provides an overview of daily completion progress |
+| Flexible Task Control | Supports both automatic and manual task management |
+| Collaboration | Enables users to manage tasks within groups |
+| Productivity Analytics | Helps users understand their working habits |
+
+
+---
+
+# 🛠️ Technologies Used
+
+(Add your technologies here)
+
+Example:
+
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Dart
+
+
+---
+
+# 🚀 Future Improvements
+
+Possible improvements:
+
+- Notification reminders
+- Task priority ranking
+- AI-based productivity recommendations
+- More advanced analytics dashboard
+- Cross-platform synchronization
+
+
+---
+
+# 👨‍💻 Contributors
+
+| Name | Role |
+|---|---|
+| Member 1 | Development |
+| Member 2 | UI/UX Design |
+| Member 3 | Database & Backend |
